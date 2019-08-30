@@ -1,2 +1,12 @@
-- name: Index
+- name: Microsoft Q&A Documentation
   href: index.md
+- name: FAQ
+  href: microsoftqa-faq.md
+- name: Resources
+  href: resources.md  
+- name: Onboarding guidelines
+  items:
+    - name: Hub Pages
+      href: onboard/hub-page.md
+    - name: Tag Rules
+      href: onboard/tag-rules.md
