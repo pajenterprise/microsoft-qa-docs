@@ -27,6 +27,7 @@ Note: Users are not able to post content in a Smart Space, all content that appe
 - It provides a feed of the aggregated content. Te rest of the page does not change. For example, "Popular Tags" apply to the full site, not just to the tags include Smart Space.
 - Search is not scoped for the Smart Space, it is Search wide.
 - Its content does not live in the smart space.
+- It does not have filtering
 
 ## Smart Space Requirements
 
