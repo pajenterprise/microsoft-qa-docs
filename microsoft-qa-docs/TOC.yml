@@ -2,16 +2,28 @@
   href: index.md
 - name: FAQ
   href: microsoft-qa-faq.md
-- name: Resources
-  href: resources.md  
+- name: MSDN/TechNet Forum Permissions
+  href: msdn-tn-permissions.md  
 - name: Onboarding guidelines
   items:
     - name: Hub Pages
       href: onboard/hub-page.md
     - name: Tag Guidelines
       href: onboard/tag-guidelines.md
-- name: Supporting docs
+- name: User Experiences
+  href: user-experiences-guides/index.md
+  items:
+    - name: Askers
+      href: user-experiences-guides/asker.md
+    - name: Answerers
+      href: user-experiences-guides/answerers.md
+    - name: Moderators
+      href: user-experiences-guides/moderator.md  
+- name: Supporting Docs
   href: support-docs/index.md
   items:
     - name: Code of Conduct
       href: support-docs/code-conduct.md
+- name: Resources
+  href: resources.md  
+
