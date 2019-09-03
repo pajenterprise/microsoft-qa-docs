@@ -1,12 +1,17 @@
 - name: Microsoft Q&A Documentation
   href: index.md
 - name: FAQ
-  href: microsoftqa-faq.md
+  href: microsoft-qa-faq.md
 - name: Resources
   href: resources.md  
 - name: Onboarding guidelines
   items:
     - name: Hub Pages
       href: onboard/hub-page.md
-    - name: Tag Rules
-      href: onboard/tag-rules.md
+    - name: Tag Guidelines
+      href: onboard/tag-guidelines.md
+- name: Supporting docs
+  href: index.md
+  items:
+    - name: Code of Conduct
+      href: support-docs/code-conduct.md
