@@ -2,7 +2,7 @@
 
 ## Guidelines when creating tags for Microsoft Q&A
 
-- Reuse name Docs' slugs already in place in [Docs' taxonomy](https://review.docs.microsoft.com/en-us/new-hope/information-architecture/metadata/taxonomies?branch=master)
+- Reuse name Docs' slugs already in place in [Docs' taxonomy](https://review.docs.microsoft.com/en-us/new-hope/information-architecture/metadata/taxonomies?branch=master).
 - Tags can have many-to-many parent-child relationship.
 - All parent tags need to be from Docs taxonomy slugs in the above link.
 - Provide additional tags based on scenario and tags used in other communities (such as Stack Overflow), your customers are already familiar with.

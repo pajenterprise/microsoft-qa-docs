@@ -11,7 +11,7 @@
     - name: Tag Guidelines
       href: onboard/tag-guidelines.md
 - name: Supporting docs
-  href: index.md
+  href: support-docs/index.md
   items:
     - name: Code of Conduct
       href: support-docs/code-conduct.md
