@@ -1,6 +1,6 @@
 # User Experience for Answerers
 
-## Answering a question
+## Filtering a list to find questions that need answers
 
 ## Commenting on a question
 
