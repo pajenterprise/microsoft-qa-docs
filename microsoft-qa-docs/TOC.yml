@@ -1,6 +1,5 @@
 - name: Microsoft Q&A Documentation
   href: index.md
-
 - name: MSDN/TechNet Forum Permissions
   href: msdn-tn-permissions.md  
 - name: Onboarding guidelines
@@ -18,6 +17,10 @@
       href: user-experience-guides/answerer.md
     - name: Moderators
       href: user-experience-guides/moderator.md  
+- name: Processes
+  items:
+    - name: Sign up
+      href: process/sign-up.md
 - name: Supporting Docs
   href: support-docs/index.md
   items:

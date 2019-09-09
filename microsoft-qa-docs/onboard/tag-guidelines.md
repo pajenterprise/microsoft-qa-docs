@@ -17,6 +17,10 @@
 - Make the tag name as compact as possible (ie: short “common-data-service-for-apps” to “common-data-service”).
 - No product versions in the tags, unless there really needs to be an exception
 
+## Process to request tags
+
+***TBD***
+
 ## Resources
 
 - [Product Catalog ACOM docs](https://acom.azure.net/documentation/product-catalog-synchronization-process/)
