@@ -26,6 +26,8 @@
   items:
     - name: Code of Conduct
       href: support-docs/code-conduct.md
+    - name: Reputation points
+      href: support-docs/reputation-points.md
 - name: FAQ
   href: microsoft-qa-faq.md
 - name: Glossary
