@@ -24,6 +24,8 @@
 - name: Supporting Docs
   href: support-docs/index.md
   items:
+    - name: Welcome to Microsoft Q&A!
+      href: support-docs/welcome-to-qa.md
     - name: Code of Conduct
       href: support-docs/code-conduct.md
     - name: Reputation points
