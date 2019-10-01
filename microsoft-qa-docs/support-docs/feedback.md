@@ -18,4 +18,4 @@ After you submit an idea or feedback, states indicate where your idea or feedbac
 
 ## Status Workflow
 Below is a flowchart showing you how your ideas and feedback are moved between states, and what happens as a result.
-![completed feedback icon](https://github.com/MicrosoftDocs/microsoft-qa-docs/blob/master/microsoft-qa-docs/support-docs/media/Minerva_Feedback_Workflow.PNG)
+
