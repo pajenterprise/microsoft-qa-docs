@@ -1,4 +1,4 @@
-# Reputation points 
+# Reputation Points 
 As the name implies Reputation points allow you to earn points based on quality contributions to this Q&A site and use them as a way to show your reputation to other users.
 
 ## How do I earn Reputation points?

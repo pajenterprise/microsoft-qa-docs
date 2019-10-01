@@ -11,8 +11,6 @@ Click on the "Post" - "Question" option on the blue bar.
 
 The "Ask a Question" page loads.
 
-![post a question blank](media/post-question-1.png)
-
 When entering your question, you will see similar questions already asked by other users. The number on the lef indicates the number of votes, the number on the right, the number of answers the similar question has.
 
 ![post a question's similar questions](media/post-question-2.png)

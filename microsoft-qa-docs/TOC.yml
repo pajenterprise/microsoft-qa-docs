@@ -28,8 +28,10 @@
       href: support-docs/welcome-to-qa.md
     - name: Code of Conduct
       href: support-docs/code-conduct.md
-    - name: Reputation points
+    - name: Reputation Points
       href: support-docs/reputation-points.md
+    - name: Feedback and Ideas
+      href: support-docs/feedback.md	
 - name: FAQ
   href: microsoft-qa-faq.md
 - name: Glossary
