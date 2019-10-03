@@ -12,13 +12,13 @@ After you submit an idea or feedback, states indicate where your idea or feedbac
 |![need more info feedback icon](media/Minerva_Feedback_NeedMoreInfo.PNG) | An idea or feedback marked **Need More Info** means that we need more details so we can better understand your feedback. Check the comments, where we'll ask for additional information to get a deeper understanding.  |
 | ![closed-other product feedback icon](media/Minerva_Feedback_ClosedOtherProduct.PNG)  | **Closed - Other Product** means we're unable to address the feature suggestion at this time because it's not applicable to Minerva. However, we'll provide details on where you can share your new feature suggestion for the appropriate product. |
 | ![closed-duplicate feedback icon](media/Minerva_Feedback_ClosedDuplicate.PNG)  | **Closed - Duplicate** indicates that someone else has already provided the same idea or feedback. Review the comments to find the link to the original idea or feedback and follow it to get updates. Votes and comments have been merged in the original idea or feedback.  |
-| <img src="https://github.com/MicrosoftDocs/microsoft-qa-docs/blob/master/microsoft-qa-docs/support-docs/media/Minerva_Feedback_ClosedNotEnoughInfo.PNG" width="550"> | **Closed - Not Enough Info** indicates that after several attempts, we haven’t received enough information to understand your idea or feedback fully. We have to close the item as we're unable to take any further action at this stage.<br/><br/>Found the information we were looking for? You may request to reactivate the ticket when you have the additional information via a comment. |
+| ![closed-not enough info feedback icon](media/Minerva_Feedback_ClosedNotEnoughInfo.PNG) | **Closed - Not Enough Info** indicates that after several attempts, we haven’t received enough information to understand your idea or feedback fully. We have to close the item as we're unable to take any further action at this stage.<br/><br/>Found the information we were looking for? You may request to reactivate the ticket when you have the additional information via a comment. |
 | ![closed-not at this time feedback icon](media/Minerva_Feedback_ClosedNotAtThisTime.PNG)  | **Closed - Not at this Time** means that the idea or feedback is not aligned with our current roadmap. Even if we're unable to pursue your new idea or feedback at this time, we'll continue to monitor in case the community weighs in, and decide if we will bring it for consideration later on. |
 | ![completed feedback icon](media/Minerva_Feedback_Completed.PNG)  | **Completed** indicates that your new idea or suggestion has been shipped. You should be able see the idea or feedback implemented on the Minerva site. |
 
 ## Status Workflow
 Below is a flowchart showing you how your ideas and feedback are moved between states, and what happens as a result.<br/><br/>
-<img src="https://github.com/MicrosoftDocs/microsoft-qa-docs/blob/master/microsoft-qa-docs/support-docs/media/Minerva_Feedback_Workflow.PNG" width="800">
+![feedback status workflow icon](media/Minerva_Feedback_Workflow.PNG)
 
 
 
