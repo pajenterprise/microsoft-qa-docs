@@ -16,7 +16,8 @@ Askers, Answerers, and Moderators need to have a Tech Profile account in order t
 > [!TIP]
 > We cannot fully test this scenario until Microsoft Q&A is live. We can test it from the [Microsoft Learn](https://docs.microsoft.com/learn) site instead.
 
-1. Go to https://docs.microsoft.com/answers
+1. If you are creating your profile before October 30 go to https://docs.microsoft.com/learn
+1. If you are creating your profile after October 30, go to https://docs.microsoft.com/answers
 1. Click on the "Sign in" button on the top or attempt to do a write activity, such as ask a question.
 1. You will see the sign in process workflow. You can use an existing Microsoft account or create a new account. If you have a Microsoft account, password is auto-populated for you.
 
@@ -44,5 +45,5 @@ Askers, Answerers, and Moderators need to have a Tech Profile account in order t
 
 ![profile created successfully](media/sign-in-process-6.png)
 
-- Clicking on "OK", takes you back to the Q&A page from where you started.
+- Clicking on "OK", takes you back to the page from where you started.
 - Clicking on "View my Tech Profile", takes you to your Tech Profile page instead.
