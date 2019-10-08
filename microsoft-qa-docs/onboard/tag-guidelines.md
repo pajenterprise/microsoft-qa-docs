@@ -11,7 +11,7 @@ The scope of this page is only for Q&A public launch on October 30. We will upda
 - There is only a two-level hierarchy for tags. I.e. ony parent (L1) and children (L2).
 - Tag hierarchy is transparent to the users, so repeat your service name in the L2 tags as needed.
 - Provide additional tags based on scenario and tags used in other communities (such as Stack Overflow), your customers are already familiar with.
-- Descriptions and icons for tags are optional. 
+- If you have more than one service, such as the Azure team, please create a tab per service.
 
 ## Tag-naming rules
 
@@ -22,6 +22,9 @@ The scope of this page is only for Q&A public launch on October 30. We will upda
 - Make the tag name as compact as possible (ie: short “common-data-service-for-apps” to “common-data-service”).
 - No product versions in the tags, unless there really needs to be an exception
 
+## Sending the tags
+
+Send the spreadsheet to [Sandra Aldana](mailto:saldana)
 
 ## Process to request new tags (post going live)
 
