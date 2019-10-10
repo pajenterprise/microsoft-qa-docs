@@ -12,7 +12,7 @@ Below is a table that shows the activities we track in the recognition system an
 | One of the feedback items you voted for gets approved | 5 |
 | You give a vote to an article | 0 |
 | You have a post reported for moderation  | -10 |
-| You received a vote to a question, comment, feedback, or article  | 0 |
+| You received a vote to a question, comment, feedback, or article  | 5 |
 | You accepted an answer on a question you posted | 20  |
 | A user accepted your answer | 75  |
 
