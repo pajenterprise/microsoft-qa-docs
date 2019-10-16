@@ -8,8 +8,8 @@ Below is a table that shows the activities we track in the recognition system an
 
 | Activity  | Points earned |
 | :----- | :-----: |
-| An idea you posted gets approved | 50  |
-| One of the feedback items you voted for gets approved | 5 |
+| Your feedback gets approved | 50  |
+| One of the feedback you voted for gets approved | 5 |
 | You give a vote to an article | 0 |
 | You have a post reported for moderation  | -10 |
 | You received a vote to a question, comment, feedback, or article  | 5 |
