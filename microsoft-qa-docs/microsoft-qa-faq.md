@@ -36,7 +36,7 @@ A moderator will review this report and act on it.<br>
 **A.** If you have an account through Microsoft Docs or Learn, you can use the same account information here. If not, in the top right corner of the Q&A site you will see an option to create an account.<br>
 
 **Q.** How do I sign in?<br>
-**A.** In the Microsoft Q&A header, select **Sign In**. You can use the same user profile that you use on Microsoft Docs or Learn.<br>
+**A.** In the Microsoft Q&A header, select **Sign In**. You can use the same user profile that you use on Microsoft Docs or Learn.<br><br>
 
 ***
 ## Asking and answering questions:
@@ -86,7 +86,7 @@ A moderator will review this report and act on it.<br>
 **A.** In the Microsoft Q&A header, click on **Post**. As you start typing out your question you will see suggestions of similar questions. If you can't find anything that matches, try exploring the tags that are related to your issue.<br>
 
 **Q.** How do I find tags that I'm interested in?<br>
-**A.** In the search bar at the top of the screen, start typing out tags you are interested in. Related questions, users, and tags will be suggested for you to explore. You can also sort tags by popularity to see what the community is currently interested in.<br>
+**A.** In the search bar at the top of the screen, start typing out tags you are interested in. Related questions, users, and tags will be suggested for you to explore. You can also sort tags by popularity to see what the community is currently interested in.<br><br>
 
 ***
 ## User profile:
@@ -110,7 +110,7 @@ A moderator will review this report and act on it.<br>
 **A.** Yes. All the items that you favorite are compiled in your bookmarks in your profile. Just click on your avatar in the top right of the Microsoft Q&A header and click on **Profile**. Click on **Bookmarks** in your user profile area directly above your bio.<br>
 
 **Q.** How can I view all the questions and answers I've interacted with?<br>
-**A.** Click on your avatar in the top right of the Microsoft Q&A header and then click **Profile**. Under **Activity** you will see all your activity history.<br>
+**A.** Click on your avatar in the top right of the Microsoft Q&A header and then click **Profile**. Under **Activity** you will see all your activity history.<br><br>
 
 ***
 ## Moderators:
@@ -121,7 +121,7 @@ A moderator will review this report and act on it.<br>
 **A.** They can't, only another moderator will be able to.<br>
 
 **Q.** Can moderators mark answers as "Accepted Answers"?<br>
-**A.** No, only the original poster and site administrators have those permissions.<br>
+**A.** No, only the original poster and site administrators have those permissions.<br><br>
 
 ***
 ## MSDN/TechNet Forums:
