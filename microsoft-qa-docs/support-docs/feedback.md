@@ -1,24 +1,34 @@
-# Feedback and Ideas     
-You can provide suggestions and give us feedback on Minerva, within Minerva. The Minerva team will evaluate the feedback and provide updates on each of the items. We encourage users to vote on the ideas or suggestions that will have the most impact on the platform.
-## Ideas and Feedback Status
-After you submit an idea or feedback, states indicate where your idea or feedback submission is in its lifecycle. As we take your feedback into consideration and move it along the workflow, we tag it with the corresponding states. The various states associated with feature suggestions are listed here, along with a description of their meaning and color indicators.<br/><br/>
+# Site Feedback
+
+You can provide suggestions and give us feedback on Microsoft Q&A on the site. The Microsoft Q&A team will evaluates your feedback in regular basis and provides updates along the way.
+
+Note that this flow only applies for site feedback on Microsoft Q&A. For feedback on any other platform, please continue engaging in the sites you normally do.
+
+## Voting
+
+If you see some feedback already reported by others that you would like implemented, we encourage you to vote on those suggestions to make the most impact on the platform.
+
+Note that you have 10 votes for all site feedback still in evaluation. Once the feedback is picked up or closed, you will get that vote back.
+
+## Feedback Statuses
+
+After you submit an feedback or feedback, states indicate where your feedback or feedback submission is in its lifecycle. As we take your feedback into consideration and move it along the workflow, we tag it with the corresponding states. The various states associated with feature suggestions are listed here, along with a description of their meaning and color indicators.
 
 | Icon  | Description |
 | :---------------:  | ----  |
-| ![new feedback icon](media/Minerva_Feedback_New.PNG) | **New** means the idea or feedback has been newly reported by you or someone else. No action has been taken on it yet. The Minerva team will do some preliminary checks to make sure we can proceed further. Expect to hear from us in about five business days with our next steps.  |
-| ![under review feedback icon](media/Minerva_Feedback_UnderReview.PNG) | **Under Review** indicates that the idea or feedback has been queued up for prioritization. We prioritize items to bring our broader developer community the best value, while also taking the product roadmap into consideration.  |
-| ![on roadmap feedback icon](media/Minerva_Feedback_OnRoadmap.PNG) | **On Roadmap** means that the idea or feedback has a broad community impact and will help improve the product experience. We've allocated time for it on our roadmap. |
-| ![in progress feedback icon](media/Minerva_Feedback_InProgress.PNG) | **In Progress** means that the idea or feedback has been picked up by our team and we are actively working on it. |
-|![need more info feedback icon](media/Minerva_Feedback_NeedMoreInfo.PNG) | An idea or feedback marked **Need More Info** means that we need more details so we can better understand your feedback. Check the comments, where we'll ask for additional information to get a deeper understanding.  |
-| ![closed-other product feedback icon](media/Minerva_Feedback_ClosedOtherProduct.PNG)  | **Closed - Other Product** means we're unable to address the feature suggestion at this time because it's not applicable to Minerva. However, we'll provide details on where you can share your new feature suggestion for the appropriate product. |
-| ![closed-duplicate feedback icon](media/Minerva_Feedback_ClosedDuplicate.PNG)  | **Closed - Duplicate** indicates that someone else has already provided the same idea or feedback. Review the comments to find the link to the original idea or feedback and follow it to get updates. Votes and comments have been merged in the original idea or feedback.  |
-| ![closed-not enough info feedback icon](media/Minerva_Feedback_ClosedNotEnoughInfo.PNG) | **Closed - Not Enough Info** indicates that after several attempts, we haven’t received enough information to understand your idea or feedback fully. We have to close the item as we're unable to take any further action at this stage.<br/><br/>Found the information we were looking for? You may request to reactivate the ticket when you have the additional information via a comment. |
-| ![closed-not at this time feedback icon](media/Minerva_Feedback_ClosedNotAtThisTime.PNG)  | **Closed - Not at this Time** means that the idea or feedback is not aligned with our current roadmap. Even if we're unable to pursue your new idea or feedback at this time, we'll continue to monitor in case the community weighs in, and decide if we will bring it for consideration later on. |
-| ![completed feedback icon](media/Minerva_Feedback_Completed.PNG)  | **Completed** indicates that your new idea or suggestion has been shipped. You should be able see the idea or feedback implemented on the Minerva site. |
+| ![new feedback icon](media/qna-feedback-new.png) | **New** means the feedback has been newly reported by you or someone else. No action has been taken on it yet. The Q&A team will do some preliminary checks to make sure we can proceed further.  |
+| ![under review feedback icon](media/qna-feedback-underreview.png) | **Under review** indicates that the feedback has been queued up for prioritization. We prioritize items to bring our broader community the best value, while also taking the product roadmap into consideration.  |
+| ![on roadmap feedback icon](media/qna-feedback-onroadmap.png) | **On roadmap** means that the  feedback has a broad community impact and will help improve the product experience. We've allocated time for it on our roadmap. |
+| ![in progress feedback icon](media/qna-feedback-InProgress.png) | **In progress** means that the feedback has been picked up by our team and we are actively working on it. |
+| ![completed feedback icon](media/qna-feedback-completed.png)  | **Completed** indicates that your feedback has been shipped. You should be able see the feedback implemented on the Q&A site. |
+|![need more info feedback icon](media/qna-feedback-needmoreinfo.png) | **Need more info** means that we need more details so we can better understand your feedback. Check the comments, where we'll ask for additional information to get a deeper understanding.  |
+| ![closed-not enough info feedback icon](media/qna-feedback-closed-notenoughinfo.png) | **Closed: Not enough info** indicates that after several attempts, we haven’t received enough information to understand your feedback fully. We have to close the item as we're unable to take any further action at this stage.<br/><br/>Found the information we were looking for? You may request to reactivate the ticket when you have the additional information via a comment. |
+| ![closed-duplicate feedback icon](media/qna-feedback-closed-duplicate.png)  | **Closed: Duplicate** indicates that someone else has already provided the same feedback. Review the comments to find the link to the original feedback and follow it to get updates.   |
+| ![closed-not at this time feedback icon](media/qna-feedback-closed-notatthistime.png)  | **Closed: Not at this time** means that the feedback is not aligned with our current roadmap. Even if we're unable to pursue your feedback at this time, we'll continue to monitor in case the community weighs in, and decide if we will bring it for consideration later on. |
+| ![closed-other product feedback icon](media/qna-feedback-closed-otherproduct.png)  | **Closed: Other product** means we're unable to address the feature suggestion at this time because it's not applicable to Q&A. However, we'll provide details on where you can share your suggestion for the appropriate product. |
 
-## Status Workflow
-Below is a flowchart showing you how your ideas and feedback are moved between states, and what happens as a result.<br/><br/>
-![feedback status workflow icon](media/Minerva_Feedback_Workflow.PNG)
+## Feedback Workflow
 
+Below is the flowchart showing you how your feedback are moved between states.
 
-
+![feedback status workflow icon](media/qna-feedback-workflow.png)
