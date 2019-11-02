@@ -46,6 +46,6 @@ Below is the flowchart showing you how your feedback are moved between states.
 - **Closed: Not at this time** - Hi <insert customer alias>, thanks for the valuable suggestion. At this time we aren't pursuing this suggestion due to factors such as lack of product direction alignment or community impact. <Add comments for any additional clarity>. Although we're unable to address this particular issue, be assured that all your feedback is valuable. We thank you for your help evolving the Q&A platform.
 - **Closed: Other product** - Hi <insert customer alias>, thanks for the valuable suggestion. This feedback channel is currently reserved for Platform-related suggestions.<br>Please post your suggestion to our feedback channel <insert URL> so the community can comment and vote on it. This allows the respective feature teams to review and prioritize your suggestion against their product backlog.<br>We are actively working to improve this experience. We thank you for your patience as we evolve the Q&A platform.
 
-Messages for other Misroute scenarios and Redirection steps 
+## Messages for other Misroute scenarios and Redirection steps 
 
-Please see [here](https://microsoft.sharepoint.com/:w:/t/AzureCXPCommunityEngineers/EfMmbYwONoZOj1tsIw9ir40BLXFgmt47PCFbZ5y4xba9rw?e=cykxyz).  
+Please see [here](https://microsoft.sharepoint.com/:w:/t/AzureCXPCommunityEngineers/EfMmbYwONoZOj1tsIw9ir40BLXFgmt47PCFbZ5y4xba9rw?e=cykxyz).
