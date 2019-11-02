@@ -17,7 +17,8 @@ After you submit an feedback or feedback, states indicate where your feedback or
 | Icon  | Description |
 | :---------------:  | ----  |
 | ![new feedback icon](media/qna-feedback-new.png) | **New** means the feedback has been newly reported by you or someone else. No action has been taken on it yet. The Q&A team will do some preliminary checks to make sure we can proceed further.  |
-| ![under review feedback icon](media/qna-feedback-underreview.png) | **Under review** indicates that the feedback has been queued up for prioritization. We prioritize items to bring our broader community the best value, while also taking the product roadmap into consideration.  |
+| ![under review feedback icon](media/qna-feedback-underreview.png) | **Under review** indicates that the feedback has been queued up for prioritization. We prioritize items to bring our broader community the best value, while also taking the product 
+into consideration.  |
 | ![on roadmap feedback icon](media/qna-feedback-onroadmap.png) | **On roadmap** means that the  feedback has a broad community impact and will help improve the product experience. We've allocated time for it on our roadmap. |
 | ![in progress feedback icon](media/qna-feedback-InProgress.png) | **In progress** means that the feedback has been picked up by our team and we are actively working on it. |
 | ![completed feedback icon](media/qna-feedback-completed.png)  | **Completed** indicates that your feedback has been shipped. You should be able see the feedback implemented on the Q&A site. |
@@ -37,7 +38,7 @@ Below is the flowchart showing you how your feedback are moved between states.
 
 - **New** - No response needed. All the ideas get to this state
 - **Under review** - Hi {insert customer alias}, thanks for the valuable suggestion. We are currently evaluating it and we will come back to you soon. We thank you for your help evolving the Q&A platform. 
-- **On roadmap** - Hi {insert customer alias}. We reviewed your suggestion and we are adding this to our roadmap. We will update this thread with more details to share. We thank you for your help evolving the Q&A platform.
+- **On roadmap** - Hi {insert customer alias}. We reviewed your suggestion and we are adding this to our roadmap. We will update this thread when we have more details to share. We thank you for your help evolving the Q&A platform.
 - **In progress** - Hi {insert customer alias}. We wanted to let you know that we have started the implementation of this suggestion. We will update this thread with delivery details. We thank you for your help evolving the Q&A platform.
 - **Completed** - Hi {insert customer alias}. We wanted to let you know that we have shipped this feature. {add details about it, documentation, etc}. If you find any issues or have other suggestions, please enter a new feedback item. We thank you for your help evolving the Q&A platform.
 - **Need more info** - Hi {insert customer alias}. In order for us to evaluate next steps, we need to better understand your suggestion. Can you provide more feedback on {insert specifics on their suggestion that are not clear or incomplete}. We thank you for your help evolving the Q&A platform.
