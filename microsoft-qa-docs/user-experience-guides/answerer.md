@@ -54,6 +54,6 @@ To comment on an answer to the question, do the following:
 1. Enter your comment in editor.
 1. Click the "Submit" button.
 
-**Result:**The comment is displayed below the answer.
+**Result**: The comment is displayed below the answer.
 
 ![comment on an answer](media/comment-answer-1.png)
