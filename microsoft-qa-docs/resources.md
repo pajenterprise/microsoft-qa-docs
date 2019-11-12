@@ -2,6 +2,19 @@
 
 - AnswerHub latest user documentation: https://developer.devada.com/docs/introduction-1
 
+# PowerBI report
+
+PowerBI dashboard with daily refresh to give you insights into Microsoft Q&A usage and customer behaviors.
+
+For questions or requests, please send mail to [Jian Dong](mailto:jiandong@microsoft.com)
+
+## Stay up to date when services are down
+
+If you want to stay up to date via mail notifications when one of our services is down and updates until issues are resolve, join this DG: [C+AI DevRel LSI Notification](mailto:apexlsi@microsoft.com).
+
+> [!IMPORTANT]
+> You will get notifications for all Dev Rel Services, not jut for Q&A.
+
 ## aka.ms Links
 
 The following are the links we have created for some of the documentation that will ship in Q&A service. This can be used by onboarding teams to include in their documentation.
@@ -13,8 +26,4 @@ The following are the links we have created for some of the documentation that w
 - Reputation: https://aka.ms/msftqareputation
 - Site feedback: https://aka.ms/msftqafeedback
 
-# PowerBI report
 
-PowerBI dashboard with daily refresh to give you insights into Microsoft Q&A usage and customer behaviors.
-
-For questions or requests, please send mail to [Jian Dong](mailto:jiandong@microsoft.com)
