@@ -4,7 +4,7 @@
 
 # PowerBI report
 
-PowerBI dashboard with daily refresh to give you insights into Microsoft Q&A usage and customer behaviors.
+[PowerBI dashboard](https://aka.ms/minervareport) with daily refresh to give you insights into Microsoft Q&A usage and customer behaviors.
 
 For questions or requests, please send mail to [Jian Dong](mailto:jiandong@microsoft.com)
 
@@ -25,5 +25,5 @@ The following are the links we have created for some of the documentation that w
 - FAQ: https://aka.ms/msftsqafaq
 - Reputation: https://aka.ms/msftqareputation
 - Site feedback: https://aka.ms/msftqafeedback
-
-
+- Ask a question: https://aka.ms/msftqaaskquestion
+- PowerBI report: https://aka.ms/minervareport
