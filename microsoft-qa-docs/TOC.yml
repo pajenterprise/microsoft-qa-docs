@@ -34,6 +34,8 @@
       href: support-docs/reputation-points.md
     - name: Feedback and Ideas
       href: support-docs/feedback.md	
+- name: Report issues
+  href: report-issues.md
 - name: FAQ
   href: microsoft-qa-faq.md
 - name: Glossary
