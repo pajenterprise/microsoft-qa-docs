@@ -4,7 +4,7 @@
   href: msdn-tn-permissions.md  
 - name: Onboarding guidelines
   items:
-    - name: Hub Pages
+    - name: Smart Spaces
       href: onboard/hub-page.md
     - name: Tag Guidelines
       href: onboard/tag-guidelines.md
@@ -17,6 +17,8 @@
       href: user-experience-guides/answerer.md
     - name: Moderators
       href: user-experience-guides/moderator.md  
+     - name: Report content
+      href: user-experience-guides/report-to-moderation.md       
 - name: Processes
   items:
     - name: Sign up

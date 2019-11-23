@@ -1,24 +1,16 @@
-# Sign up Process
+# Getting moderation access to Microsoft Q&A
 
-Here is the sign up process into Microsoft Q&A for the different phases.
+The site is public for all users to see. Any user who wants to participate will need to create an account (ADD or MSA). If your team needs privilege access, such as moderator or access for product groups, please follow these steps and sent then list to your onboarding contact.
 
-## Demo Site
-
-Registering an account on [Microsoft Q&A demo site](https://demo.forums.docs.microsoft.com):
-
-1. From your Corpnet Account (@Microsoft.com), send an email to minervasignup@microsoft.com asking for access to the Minerva demo site.
-1. Once the access has been granted you can access the site, follow the next steps shared in the email.
-
-> [!IMPORTANT]
-> Access to this site will be removed after Microsoft Q&A launches.
-
-## Public Site
-
-> [!IMPORTANT]
-> You will not have access to the site until the day the site is live on October 30. 
-
-1. Go to the [Tech Profile registration page](https://docs.microsoft.com/users/register) and either sign in with your existing Tech Profile account (you might have one already for Microsoft Learn or Microsoft Docs) or create a new one using your Microsoft Corpnet account (@microsoft.com). See [Sign in Process](../user-experience-guides/index.md#sign-in-process) for the registration user experience.
+1. Go to the [Docs registration page](https://docs.microsoft.com/users/register) and either sign in with your existing Tech Profile account (you might have one already for Microsoft Learn or Microsoft Docs) or create a new one using your Microsoft Corpnet account (@microsoft.com). See [Sign in Process](../user-experience-guides/index.md#sign-in-process) for the registration user experience.
 2. Send the link of your Tech Profile to your Microsoft Q&A onboarding contact. They will add your name to a team's spreadsheet and request access and permissions on your behalf.
 
-> [!NOTE]
-> Your account will be activated within 24-business hours.
+## Profile creation guidelines
+
+Note that the field that is used in Microsoft Q&A is your user name. So make sure this field is properly crafted so other users can identify yourself correctly.
+
+- Use one of the following two naming conventions
+    1. Your Microsoft alias followed by "-MSFT" to identify yourself as a Microsoft employee. 
+    2. Your name followed by "-MSFT" to identify yourself as a Microsoft employee. 
+- Remove any numbering that profile adds to your user name.
+- If you are a v-, please do not include the name of your company in your user name.

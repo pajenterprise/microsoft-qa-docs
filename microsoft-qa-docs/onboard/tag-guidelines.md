@@ -8,8 +8,12 @@ The scope of this page is only for Q&A public launch on October 30. We will upda
 - If you want icons, please provide the link to the downloadable file.
 - Reuse name Docs' slugs already in place in [Docs' taxonomy](https://review.docs.microsoft.com/en-us/new-hope/information-architecture/metadata/taxonomies?branch=master) as much as possible.
 - Tags can have many-to-many parent-child relationship. I.e. a tag can be children of multiple parents.
-- There is only a two-level hierarchy for tags. I.e. ony parent (L1) and children (L2).
-- Tag hierarchy is transparent to the users, so repeat your service name in the L2 tags as needed.
+- Use only a two-level hierarchy for tags. I.e. ony parent (L1) and children (L2).
+- The path to the parent tag can be uses to send the users to your service. The link to the parent tag contains all the elements that have the parent tag or any of its children. Example: [Partner Center API](https://docs.microsoft.com/answers/topics/partner-center-api.html).
+
+![parent tag hierarchy in Q&A](media/parent-tag.png)
+
+- Tag hierarchy is not visible to the users, so repeat your service name in the L2 tags as needed.
 - Provide additional tags based on scenario and tags used in other communities (such as Stack Overflow), your customers are already familiar with.
 - If you have more than one service, such as the Azure team, please create a tab per service.
 
@@ -25,10 +29,6 @@ The scope of this page is only for Q&A public launch on October 30. We will upda
 ## Sending the tags
 
 Send the spreadsheet to [Sandra Aldana](mailto:saldana)
-
-## Process to request new tags (post going live)
-
-***TBD***
 
 ## Resources
 
