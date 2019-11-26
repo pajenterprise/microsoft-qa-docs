@@ -35,7 +35,9 @@ Shipped via continuous development:
 * Robots.txt requires authentication and some levels of permissions
 * Idea status additional comments do not show anywhere in the UI
 * Admin dashboard: Some controls are not dropdowns with available options
+* Fixed security vulnerabilities
 * A bunch of accessibility issues towards getting Grade C
+
 For the following issues, we had workarounds, so users were not impacted, and now we have permanent fixes.
 * Site map does not generated for questions
 * Analytics json does not honor site context path
