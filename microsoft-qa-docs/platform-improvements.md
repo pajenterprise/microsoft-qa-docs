@@ -6,11 +6,18 @@ This document shows a list of bugs/improvements done in Microsoft Q&A. Those are
 
 <!--
 
-* Reached Accessibility Grade C
-
 ### AnswerHub fixes
 
 2.5.7 build (Dec 6)
+
+- Award Plugins get activated with each build deployment
+- Azure Search Broken if custom schema is defined
+- Character limitation is different when editing a topic description from the site than from the admin console
+- Despite making the site in English, some strings show localized in localized Operating Systems
+- Search results include items for topics that have been deleted
+- Sign-In broken with SSO under certain conditions
+- Tags field: Autosuggest doesn't work for compound tags
+- When following a question/idea/article, I need to refresh the page to see the Following # increase and my name as a follower (permanent fix)
 
 -->
 
