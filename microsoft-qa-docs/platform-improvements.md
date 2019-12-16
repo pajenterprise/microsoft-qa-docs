@@ -19,7 +19,6 @@ This document shows a list of bugs/improvements done in Microsoft Q&A. Those are
 - Sign-In broken with SSO under certain conditions
 - When following a question/idea/article, I need to refresh the page to see the Following # increase and my name as a follower (permanent fix)
 
-
 ### Dev Rel fixes/features
 
 Shipped via continuous development: 
