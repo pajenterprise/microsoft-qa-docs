@@ -1,32 +1,32 @@
 {
     "redirections": [
         {
-            "source_path": "support-docs/welcome-to-qa.md",
+            "source_path": "microsoft-qa-docs/support-docs/welcome-to-qa.md",
             "redirect_url": "https://docs.microsoft.com/en-us/teamblog/introducing-microsoft-qanda",
             "redirect_document_id": false
         },
         {
-            "source_path": "support-docs/index.md",
+            "source_path": "microsoft-qa-docs/support-docs/index.md",
             "redirect_url": "https://docs.microsoft.com/en-us/teamblog/introducing-microsoft-qanda",
             "redirect_document_id": false
         },
         {
-            "source_path": "support-docs/code-conduct.md",
+            "source_path": "microsoft-qa-docs/support-docs/code-conduct.md",
             "redirect_url": "https://docs.microsoft.com/answers/articles/316/microsoft-qa-code-of-conduct.html",
             "redirect_document_id": false
         },
         {
-            "source_path": "support-docs/feedback.md",
+            "source_path": "microsoft-qa-docs/support-docs/feedback.md",
             "redirect_url": "https://docs.microsoft.com/answers/articles/387/site-feedback.html",
             "redirect_document_id": false
         },
         {
-            "source_path": "support-docs/reputation-points.md",
+            "source_path": "microsoft-qa-docs/support-docs/reputation-points.md",
             "redirect_url": "https://docs.microsoft.com/answers/articles/374/reputation-points.html",
             "redirect_document_id": false
         },
         {
-            "source_path": "microsoft-qa-faq.md",
+            "source_path": "microsoft-qa-docs/microsoft-qa-faq.md",
             "redirect_url": "https://docs.microsoft.com/answers/articles/388/microsoft-qa-frequently-asked-questions.html",
             "redirect_document_id": false
         }
