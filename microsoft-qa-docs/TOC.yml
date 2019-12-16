@@ -34,7 +34,9 @@
       href: support-docs/reputation-points.md
     - name: Feedback and Ideas
       href: support-docs/feedback.md	
-- name: Platform improvements
+- name: Build frequency and notifications
+  href: build-frequency.md
+- name: Release Notes
   href: platform-improvements.md
 - name: Report issues
   href: report-issues.md
