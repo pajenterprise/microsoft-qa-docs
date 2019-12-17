@@ -18,6 +18,7 @@ This document shows a list of bugs/improvements done in Microsoft Q&A. Those are
 - Search results include items for topics that have been deleted
 - Sign-In broken with SSO under certain conditions
 - When following a question/idea/article, I need to refresh the page to see the Following # increase and my name as a follower (permanent fix)
+- Tag car renders offscreen
 
 ### Dev Rel fixes/features
 
