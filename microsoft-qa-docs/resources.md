@@ -26,4 +26,4 @@ The following are the links we have created for some of the documentation that w
 - Reputation: https://aka.ms/msftqareputation
 - Site feedback: https://aka.ms/msftqafeedback
 - Ask a question: https://aka.ms/msftqaaskquestion
-- PowerBI report: https://aka.ms/minervareport
+- PowerBI report: https://aka.ms/msftqabireport
