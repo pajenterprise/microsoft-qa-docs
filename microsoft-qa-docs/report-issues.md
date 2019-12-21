@@ -2,7 +2,7 @@
 
 ## Platform issues
 
-Please use [SiteHelp](https://aka.ms/sitehelp) for any platform issues such as:
+Please use [SiteHelp](https://sitehelp.microsoft.com/new?fid=49) for any platform issues such as:
 
 1. Site is down
 2. Performance issues
