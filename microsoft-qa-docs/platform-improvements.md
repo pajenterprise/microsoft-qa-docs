@@ -25,12 +25,9 @@ This document shows a list of bugs/improvements done in Microsoft Q&A. Those are
 
 Shipped via continuous development: 
 
+* Support for Usabilla to measure CSAT 
 * Following Users image is broken if user is not logged into Q&A
-
-<!--
-* Support for Usabilla to measure CSAT and compare with MSDN Forums.
-
--->
+* Breadcrumbs respect casing
 
 ## October 30-November 25, 2019
 
