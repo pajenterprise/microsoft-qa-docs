@@ -8,7 +8,7 @@ This document shows a list of bugs/improvements done in Microsoft Q&A. Those are
 ### AnswerHub fixes
 
 2.5. build (Jan 17)
-- Despite making the site in English, some strings show localized in localized Operating Systems
+
 
 -->
 
@@ -28,6 +28,7 @@ This document shows a list of bugs/improvements done in Microsoft Q&A. Those are
 - Search results include items for topics that have been deleted
 - Sign-In broken with SSO under certain conditions
 - When following a question/idea/article, I need to refresh the page to see the Following # increase and my name as a follower (permanent fix)
+- Despite making the site in English, some strings show localized in localized Operating Systems
 - Tag car renders offscreen
 - Favicon does not show due to contextual URL
 
