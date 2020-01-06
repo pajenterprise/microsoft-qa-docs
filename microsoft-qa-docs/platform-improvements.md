@@ -2,7 +2,17 @@
 
 This document shows a list of bugs/improvements done in Microsoft Q&A. Those are a combination of internal feedback, customer feedback, and our own testing.
 
-## November 25-December 18
+<!--
+## Jan 1-31, 2020
+
+### AnswerHub fixes
+
+2.5. build (Jan 17)
+- Despite making the site in English, some strings show localized in localized Operating Systems
+
+-->
+
+## November 25-December 31 2019
 
 ### AnswerHub fixes
 
@@ -14,7 +24,7 @@ This document shows a list of bugs/improvements done in Microsoft Q&A. Those are
 
 - Azure Search Broken if custom schema is defined
 - Character limitation is different when editing a topic description from the site than from the admin console
-- Despite making the site in English, some strings show localized in localized Operating Systems
+
 - Search results include items for topics that have been deleted
 - Sign-In broken with SSO under certain conditions
 - When following a question/idea/article, I need to refresh the page to see the Following # increase and my name as a follower (permanent fix)
@@ -26,8 +36,9 @@ This document shows a list of bugs/improvements done in Microsoft Q&A. Those are
 Shipped via continuous development: 
 
 * Support for Usabilla to measure CSAT 
-* Following Users image is broken if user is not logged into Q&A
+* Following Users image is no longer broken if user is not logged into Q&A
 * Breadcrumbs respect casing
+* When hovering a tag, the description is now fully visible
 
 ## October 30-November 25, 2019
 
