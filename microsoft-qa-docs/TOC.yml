@@ -23,6 +23,8 @@
   items:
     - name: Sign up
       href: process/sign-up.md
+    - name: MSDN/TechNet forums lock down and redirection to Q&A
+      href: process/msdn-tn-closure.md
 - name: Build frequency and notifications
   href: build-frequency.md
 - name: Release Notes
