@@ -7,9 +7,36 @@ This document shows a list of bugs/improvements done in Microsoft Q&A. Those are
 
 ### AnswerHub fixes
 
-2.5. build (Jan 17)
+2.5.10 build (Jan 17)
 
+-fixed: ANSUP-11444: Sign-in broken with SSO for contextual URL
+-fixed: ANSUP-11782: New permission:
+    - Access API anonymously
+    - Publish others idea                      
+    - Publish others idea comment                  
+    - Publish others kbentry
+-fixed: ANSUP-11534: Revoke publish question permissions still allow user to post their own posts from in moderation
+-fixed: ANSUP-11490: Search result count includes deleted items
+-fixed: ANSUP-11504: Tags field: Autosuggest doesn't work for compound tags
+-fixed: ANSUP-11513: Favicon does not show due to contextual URL
+-fixed: ANSUP-11530: When there is not a favicon link, there should not be a link for it
+-fixed: ANSUP-11555: Search using the "authored by" returns blank results on prod/stage
+Admin dashboard: Make Site - Layout - Sitemaps - "Questions Sort" a drop-down control
+-fixed: ANSUP-11635: Reported Number is not correct in moderation list
+-fixed: ANSUP-11360: A user can vote on their own ideas and answers
+-fixed: ANSUP-11693: [MD Editor] When attaching a file, the link text for the file should be the file name (image ame is the file name with the Unique ID)
+-fixed: ANSUP-11743: Heading tag (H1) are missing or duplicates across different pages
+-fixed: ANSUP-11724: Äú/page-view/track.json" throwing 500 errors on docs.microsoft.com/answers
+-fixed: ANSUP-11803: Submit to Akismet edited posts with the – recheck_reason flag instead to avoid spam false positives
+-fixed: ANSUP-11807: “Follow/UnFollow” a tag - the Follower count will not get updated/incremented
+- Accessibility bugs
 
+### Dev Rel fixes/features
+
+Shipped via continuous development: 
+
+- Updating Tech Profile user details get reflected automatically in Q&A
+- Q&A activity shows in Tech Profile for all users
 -->
 
 ## November 25-December 31 2019
