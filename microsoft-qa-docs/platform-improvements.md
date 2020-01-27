@@ -23,7 +23,7 @@ Admin dashboard: Make Site - Layout - Sitemaps - "Questions Sort" a drop-down co
 -fixed: ANSUP-11743: Heading tag (H1) are missing or duplicates across different pages
 -fixed: ANSUP-11724: Äú/page-view/track.json" throwing 500 errors on docs.microsoft.com/answers
 - Threads are no longer considered spam after the user edits a post multiple times in a short period of time.
--fixed: ANSUP-11807: “Follow/UnFollow” a tag - the Follower count will not get updated/incremented
+- When “Follow/UnFollow” a tag, the Follower count now gets updated
 - Accessibility bugs
 
 ### Dev Rel fixes/features
