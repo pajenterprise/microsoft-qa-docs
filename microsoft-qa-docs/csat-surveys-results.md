@@ -9,15 +9,13 @@ On Microsoft Q&A, we are using two different surveys to track customer satisfact
 
 2. **Original poster (OP) survey:** This survey is triggered for 100% of users who:
 <br> a. Ask a question and navigate away from the page
-<br> b. Return to the question and mark an answer as "Accepted"<br>
+<br> b. Return to the question page<br>
 ![Screenshot of question asking experience survey](media/op_survey.PNG)
 
 > [!NOTE]
 > You will **not** be notified of a survey response if you answer a question. The original poster's survey response will not impact your Microsoft Q&A reputation points.  
 
  Both of these surveys have been created using a third-party survey service, [Usabilla](https://usabilla.com/). 
- > [!NOTE]
- > The OP Survey is not working right now. Troubleshooting is underway and the survey will be up and running ASAP.
 
 ### How will this affect me?
 You will only be affected by these surveys if you're a user that matches the user targeting criteria for either survey listed above. If you want to use the results of these surveys to gauge forum health, see the next section.
