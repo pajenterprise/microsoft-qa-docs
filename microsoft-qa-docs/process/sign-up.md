@@ -2,7 +2,7 @@
 
 The site is public for all users to see. Any user who wants to participate will need to create an account (ADD or MSA). If your team needs privilege access, such as moderator or access for product groups, please follow these steps and sent then list to your onboarding contact.
 
-1. Go to [Microsoft Q&A apage](https://docs.microsoft.com/answers)
+1. Go to [Microsoft Q&A page](https://docs.microsoft.com/answers)
 1. Click on the "Sign in" button on the top or attempt to do a write activity, such as ask a question.
 1. You will see the sign in process workflow. You can use an existing Microsoft account or create a new account. If you have a Microsoft account, password is auto-populated for you.
 

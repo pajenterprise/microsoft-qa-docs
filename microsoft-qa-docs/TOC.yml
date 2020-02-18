@@ -25,6 +25,8 @@
       href: process/sign-up.md
     - name: MSDN/TechNet forums closure
       href: process/msdn-tn-closure.md
+- name: CSAT Surveys Results
+  href: csat-surveys-results.md
 - name: Build frequency and notifications
   href: build-frequency.md
 - name: Release Notes
