@@ -13,8 +13,8 @@ The goals of this page are twofold:
 |Date     |Phase  |
 |---------|---------|
 |T     | First announcement: Forum will be read-only        |
-|T+2 weeks     | Second announcement: Forum does not accept new questions        |
-|T+4 weeks     | Third announcement: Forum is read-only        |
+|T+3 weeks     | Second announcement: Forum does not take new questions. Users can still follow on existing questions.        |
+|T+5 weeks     | Third announcement: Forum is read-only        |
 
 > [!IMPORTANT]
 > We only support retiring a batch of forums with the same T at a time. In other words, if we're retiring forum A and forum B and they have a different retirement date and the dates is within 6 weeks, we don't support the scenario right now.
@@ -38,22 +38,22 @@ Dev Relations will post all the announcements.
 
 *Title:*
 
-{forum-name} forum will be migrating to a new home on Microsoft Q&A (Preview)!
+{forum-name} forum will be migrating to a new home on [Microsoft Q&A (Preview)](https://docs.microsoft.com/answers?WT.mc_id=msdnredirect-web-msdn)!
 
 *Body:*
 
 We’ve listened to your feedback on how we can enhance the forum experience. [Microsoft Q&A (Preview)](https://docs.microsoft.com/answers?WT.mc_id=msdnredirect-web-msdn) allows us to add new functionality and enables easier access to all the technical resources most useful to you, like Microsoft Docs and Microsoft Learn.
 
-**Now until {T+2 weeks}:**
+**Now until {T+3 weeks}:**
 
 * You can post any new questions on Microsoft Q&A (Preview) or here.
 
-From {T+2 weeks} until {T+4 weeks}:
+**From {T+3 weeks} until {T+5 weeks}:**
 
 * New posts – Post any new questions in the {forum-name} forum’s new home on [Microsoft Q&A (Preview)](https://docs.microsoft.com/answers?WT.mc_id=msdnredirect-web-msdn). The current forum will not allow any new questions.
 * Existing posts – Interact here with existing content, answer questions, provide comments, etc.
 
-**{T+4 weeks} onwards:**
+**{T+5 weeks} onwards:**
 
 * This forum will be closed to all new and existing posts and all interactions will be in [Microsoft Q&A (Preview)](https://docs.microsoft.com/answers?WT.mc_id=msdnredirect-web-msdn).
 We are excited about moving to [Microsoft Q&A (Preview)](https://docs.microsoft.com/answers?WT.mc_id=msdnredirect-web-msdn) and seeing you there.
@@ -67,7 +67,7 @@ We are excited about moving to [Microsoft Q&A (Preview)](https://docs.microsoft.
 
 ## Second announcement: Forum does not accept new questions
 
-**When:** T+2 weeks
+**When:** T+3 weeks
 
 At this point, in the forums supported in Q&A Public Preview, users cannot create new questions anymore. Users can still reply to existing threads for another 2 weeks. The forum moderators might be able to help closing the existing discussions quickly.
 
@@ -126,7 +126,7 @@ User selects the category, when they click on the forum. When they click on it, 
 
 ## Third announcement: Forum is read-only
 
-When: T+4 weeks
+When: T+5 weeks
 
 ### Set MSDN Forum as read only
 
