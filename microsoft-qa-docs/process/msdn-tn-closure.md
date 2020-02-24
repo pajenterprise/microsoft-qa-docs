@@ -94,6 +94,19 @@ From a forum’s thread
 
 ![second announcement: single forums selected](media/announcement2-single-forums-selected.png)
 
+<!--
+**Message**
+
+The following forum(s) are migrating to a new home on [Microsoft Q&A (Preview)](https://docs.microsoft.com/answers?WT.mc_id=msdnredirect-web-msdn): *{forum-name1}*, *{forum-name1}*, ..., *{forum-name-n}*!
+
+Ask new questions on [Microsoft Q&A (Preview)](https://docs.microsoft.com/answers?WT.mc_id=msdnredirect-web-msdn).
+
+Interact with existing posts until {T+ 5 weeks}, after which content will be closed to all new and existing posts.
+
+[Learn More](https://aka.ms/docsqalearnmore)
+
+-->
+
 ### Redirect forum’s “Ask a question” to Q&A
 
 As users cannot create new questions, While users cannot s cannot create new questions anymore. Users can still reply to existing threads for another 2 weeks.
@@ -156,3 +169,14 @@ Category home page
 Forum question thread
 
 ![third announcement: forum is read only, single forum selection](media/announcement3-forum-is-read-only-single-forum-selected.png)
+
+<!--
+**Message**
+
+The following forum(s) have migrated to [Microsoft Q&A (Preview)](https://docs.microsoft.com/answers?WT.mc_id=msdnredirect-web-msdn): *{forum-name1}*, *{forum-name1}*, ..., *{forum-name-n}*!
+
+Visit [Microsoft Q&A (Preview)](https://docs.microsoft.com/answers?WT.mc_id=msdnredirect-web-msdn) to post new questions.
+
+[Learn More](https://aka.ms/docsqalearnmore)
+
+-->
