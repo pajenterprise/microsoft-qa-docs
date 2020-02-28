@@ -22,7 +22,7 @@ In the question body, you can enter all details about your question. In order to
 
 Tags are essential in Q&A. Thus, at least a tag is mandatory. You can enter up to 5 tags.
 
-Only Dev Relations' Minerva team can create tags, so you can select from the given tags by typing a character, and you can see a list of the available matches.
+Only Dev Relations' Q&A team can create tags, so you can select from the given tags by typing a character, and you can see a list of the available matches.
 
 ![post question tagging](media/post-question-3.png)
 
