@@ -16,7 +16,10 @@
     - name: Answerers
       href: user-experience-guides/answerer.md
     - name: Moderators
-      href: user-experience-guides/moderator.md  
+      href: user-experience-guides/moderator.md
+      items:
+        - name: Spam management
+          href: user-experience-guides/spam-management.md
     - name: Report content
       href: user-experience-guides/report-to-moderation.md       
 - name: Processes
