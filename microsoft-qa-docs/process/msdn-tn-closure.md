@@ -8,7 +8,7 @@ The goals of this page are twofold:
 
 ## MSDN/TechNet forum shut down plan
 
-“T” = When the MSDN/TechNet forum for a product/service is supported in Q&A.
+"T" = When the MSDN/TechNet forum for a product/service is supported in Q&A.
 
 |Date     |Phase  |
 |---------|---------|
@@ -42,7 +42,7 @@ Dev Relations will post all the announcements.
 
 *Body:*
 
-We’ve listened to your feedback on how we can enhance the forum experience. [Microsoft Q&A (Preview)](https://docs.microsoft.com/answers?WT.mc_id=msdnredirect-web-msdn) allows us to add new functionality and enables easier access to all the technical resources most useful to you, like Microsoft Docs and Microsoft Learn.
+We've listened to your feedback on how we can enhance the forum experience. [Microsoft Q&A (Preview)](https://docs.microsoft.com/answers?WT.mc_id=msdnredirect-web-msdn) allows us to add new functionality and enables easier access to all the technical resources most useful to you, like Microsoft Docs and Microsoft Learn.
 
 **Now until {T+3 weeks}:**
 
@@ -50,7 +50,7 @@ We’ve listened to your feedback on how we can enhance the forum experience. [M
 
 **From {T+3 weeks} until {T+5 weeks}:**
 
-* New posts – Post any new questions in the {forum-name} forum’s new home on [Microsoft Q&A (Preview)](https://docs.microsoft.com/answers?WT.mc_id=msdnredirect-web-msdn). The current forum will not allow any new questions.
+* New posts – Post any new questions in the {forum-name} forum's new home on [Microsoft Q&A (Preview)](https://docs.microsoft.com/answers?WT.mc_id=msdnredirect-web-msdn). The current forum will not allow any new questions.
 * Existing posts – Interact here with existing content, answer questions, provide comments, etc.
 
 **{T+5 weeks} onwards:**
@@ -77,7 +77,7 @@ The following are the user scenarios we are covering.
 
 **Where:**
 
-* In the forum’s home page, there will be a banner announcing that the forum will be set as read only.
+* In the forum's home page, there will be a banner announcing that the forum will be set as read only.
 * If the user selects multiple forums, even when only one of the selected forums is set as read-only, the announcement will show in the combined forums page.
 * In the category page of any of the forums that are set for closure.
 * In every question thread for the forum.
@@ -90,7 +90,7 @@ Home page or category page of the forum to set as read-only
 
 ![second announcement: multiple forums selected](media/announcement2-multiple-forums-selected.png)
 
-From a forum’s thread
+From a forum's thread
 
 ![second announcement: single forums selected](media/announcement2-single-forums-selected.png)
 
@@ -107,15 +107,15 @@ Interact with existing posts until {T+ 5 weeks}, after which content will be clo
 
 -->
 
-### Redirect forum’s “Ask a question” to Q&A
+### Redirect forum's "Ask a question" to Q&A
 
 As users cannot create new questions, While users cannot s cannot create new questions anymore. Users can still reply to existing threads for another 2 weeks.
 
-If the user clicks on **Ask a question** button, they will be sent to Q&A’s create a new question page. User might need to log in/sign up for a Tech Profile, despite whether they are logged in MSDN/TechNet or not, as the two systems use different profiles.
+If the user clicks on **Ask a question** button, they will be sent to Q&A's create a new question page. User might need to log in/sign up for a Tech Profile, despite whether they are logged in MSDN/TechNet or not, as the two systems use different profiles.
 
 **Visual:**
 
-User clicks on Ask a Question on the forum’s page
+User clicks on Ask a Question on the forum's page
 
 ![second announcement: user clicks on Ask a question button](media/announcement2-clicking-ask-question.png)
 
@@ -134,7 +134,7 @@ User selects the category, when they click on the forum. When they click on it, 
 ![second announcement: message when user asks a question from the home page](media/announcement2-modal.png)
 
 1. If they click on Q&A platform link, user goes to create new page in Q&A in the same browser tab.
-2. If they click on Close, the modal closes, and the user is set back to the “Ask a question or start a discussion dialog” form. Ask a question/Start a discussion, Language, and Forum Category user selections are kept.
+2. If they click on Close, the modal closes, and the user is set back to the "Ask a question or start a discussion dialog" form. Ask a question/Start a discussion, Language, and Forum Category user selections are kept.
 3. If they click on Learn More, a new window opens with the target link, so the user does not lose their selection.
 
 ## Third announcement: Forum is read-only
@@ -156,6 +156,7 @@ When the forum is set as read-only, any write action in the forum is disabled by
 
 * In the forum home page.
 * In every question thread for the forum.
+* In the MSDN and TechNet New Thread pages.
 * If the user selects multiple forums, even when only one of the selected forums is set as read-only, the announcement will show in the combined forums page.
 
 Banner cannot be dismissed.
@@ -169,6 +170,15 @@ Category home page
 Forum question thread
 
 ![third announcement: forum is read only, single forum selection](media/announcement3-forum-is-read-only-single-forum-selected.png)
+
+MSDN new thread page
+
+:::image type="content" source="media/announcement3-forum-is-read-only-new-thread-msdn.png" alt-text="Announcement in MSDN New Thread":::
+
+TechNet new thread page
+
+:::image type="content" source="media/announcement3-forum-is-read-only-new-thread-technet.png" alt-text="Announcement in TechNet New Thread":::
+
 
 <!--
 **Message**
