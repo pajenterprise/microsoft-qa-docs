@@ -17,7 +17,7 @@ The goals of this page are twofold:
 |T+5 weeks     | Third announcement: Forum is read-only        |
 
 > [!IMPORTANT]
-> We only support retiring a batch of forums with the same T at a time. In other words, if we're retiring forum A and forum B and they have a different retirement date and the dates is within 6 weeks, we don't support the scenario right now.
+> We only support retiring a batch of forums with the same T at a time. In other words, if we're retiring forum A and forum B and they have a different retirement date and the date is within 8 weeks, we don't support the scenario right now.
 
 Dev Relations will post all the announcements.
 
