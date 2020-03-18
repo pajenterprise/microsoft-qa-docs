@@ -1,4 +1,4 @@
-# MSDN and TechNet forums lock down and redirection to Q&A
+# MSDN and TechNet forums transition to Microsoft Q&A
 
 As we close down MSDN Forums and support those products and services in Q&A, we need to ensure the customers have a smooth experience transitioning to it from MSDN And TechNet forums. This will be a pilot to validate this action is the right one.
 The goals of this page are twofold:
@@ -6,7 +6,7 @@ The goals of this page are twofold:
 1. Define the user experience and journey as we close a forum from MSDN and TechNet supported by Microsoft Q&A.
 2. Allow users to close on existing conversations during the transition from MSDN/TechNet forums to Q&A.
 
-## MSDN/TechNet forum shut down plan
+## MSDN/TechNet forum read-only plan
 
 "T" = When the MSDN/TechNet forum for a product/service is supported in Q&A.
 
