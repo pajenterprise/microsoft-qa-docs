@@ -8,6 +8,10 @@
 
 - [Spam management](spam-management.md)
 - Ban a user
+<!--
+If the user is suspended? What happens to their previous post? / Or would they not be able to post new threads? Would they receive a notification on why there account was suspended? 
+-->
+
 - Delete a post
 - Edit a post
 - Convert Your Answer to a Comment
