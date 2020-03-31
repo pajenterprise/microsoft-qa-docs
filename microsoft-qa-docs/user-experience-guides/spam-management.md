@@ -5,8 +5,7 @@
 
 Spam can be caught two ways:
 
-1. **Automatically**: All posts by the community go through Akismet's checking process.
-If the post passes the check from Akismet, then it will post to the community. If the post fails the check from Akismet, then it will go to the **Spam** tab, under the Moderation page where a moderator can evaluate it.
+1. **Automatically**: Via both Akismet and the AnswerHub Shield plugin
 1. **Manually**: Users can report content for moderation review.
 
 When you are moderator, you can see a *Moderation* option when you click on your Avatar. Clicking on it, it will take you to the [moderation page](https://review.docs.microsoft.com/en-us/microsoft-qa-docs/user-experience-guides/moderator?branch=master). Where you can see 3 tabs:
@@ -15,12 +14,25 @@ When you are moderator, you can see a *Moderation* option when you click on your
 1. Reported
 1. Spam
 
-## Unused - The Moderation tab
+## Automatic spam reports - The Moderation tab
 
-Right now, there is not content coming to this folder, as we have disabled the AnswerHub Shield plugin and we do not allow people to report something to moderation, (as it is confusing with the report functionality).
+This tab is for content caught by AnswerHub's Shield plugin. Posts will go into this folder if:
+
+1. A user is posting more than one question in less than 5 minutes. The second and Second question and any subsequent questions will go to this folder.
+1. A user enters a phrase more than 5 times in their question. Example "phone number".
+1. Spammers usually replace standard letters and numbers with characters that mimic the original ones. When the amount of unusual characters exceeds 30%, this is considered spam.
+
+Note that while items show up on the Moderation tab, they are no longer visible in the community.  
+
+When there is content in this folder, you can take the follow actions:
+
+1. Suspend the user if necessary.
+1. **Publish**. To publish the content back as it is a false positive.
+1. **Reject**. Moderator thinks the post is problematic and deletes it from the site.
+1. **Reject as spam** (RECOMMENDED). To move the content to the ["Spam" tab](#automatic-spam-filtering---the-spam-tab) folder and report the post as spam to Akismet to help them improve their spam algorithm.
 
 > [!TIP]
-> Unfortunately, this folder cannot be hidden
+> Sandra to write guidelines to suspend a user
 
 ## Manual spam reports - The Reported tab
 
@@ -42,7 +54,7 @@ Note that until a moderation has taken action, the content will continue to be d
 
 1. Click on *Delete the content* link, so the content is removed from the site.
 1. Click on *Reject as spam*.
-1. The content is moved to the ["Spam" tab](#automatic-spam-filtering---the-spam-tab).
+1. The content is moved to the ["Spam" tab](#automatic-spam-filtering---the-spam-tab) and report the post as spam to Akismet to help them improve their spam algorithm.
 
 Note that you cannot Reject as Spam a content that is deleted.
 
@@ -66,10 +78,10 @@ Note that the Spam folder shows content reported from oldest to newest. So you n
 1. Click on the link to go to the content.
 1. Click on the gear icon next to the content piece that contains the spam (question, answer, feedback, comment).
 1. Click on *Delete*. As a moderator, you will see a label indicating the content is being deleted. Regular users will not see the deleted content though.
-1. Go back to the moderation page, Spam tab, and ban the user if necessary.
+1. Go back to the moderation page, Spam tab, and Suspend the user if necessary.
 
 > [!TIP]
-> Sandra to write guidelines to ban a user
+> Sandra to write guidelines to suspend a user
 
 > [!IMPORTANT]
 > In order to allow moderators to go over the reported spam, we have set a *Spam Queue Retention Period* of 3 days. So if the content is spam, you will see the content there for 3 days. Simply ignore it if you already did the steps above.
