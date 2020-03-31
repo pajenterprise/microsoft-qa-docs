@@ -1,5 +1,8 @@
 # Report content for moderation review
 
+> [!NOTE]
+> This article is targeted to moderators, regular users, and site admins.
+
 You might find content that needs a moderator to review because of the following reasons:
 
 - It is Spam
@@ -14,21 +17,23 @@ You might find content that needs a moderator to review because of the following
 
 If that is the case, please report it to a moderator for review.
 
-> [!NOTE]
-> The process is the same for reporting questions, answers, comments, or feedback.
+> [!IMPORTANT]
+> If you are a moderator, do not delete the content and move on. Doing so will not send the content to our spam management systems, and spam content will not be detected moving forward.
 
-Do the following to report the content:
+Do the following to report the content. Note that the process is the e same for reporting questions, answers, comments, or feedback.
 
 1. Click the *Settings/Gear* icon at the right of the content type.
 2. Click on the *Report* link.
 ![settings icon and report option](media/report-content.png)
 3. Select a reason for reporting the content from the *Report* dialog drop down.
-4. You can enter additional comments in the text box.
+4. If you want to, enter additional comments in the text box.
 ![reason for reporting the content](media/report-content-reason.png)
 5. Click *OK* to send the content to the moderator team.
 6. A yellow bar will show on top of the content informing that the content has been reported for moderation review.
 
 ![yellow bar indicating the content is reported to a moderator](media/report-content-info.png)
 
-> [!NOTE]
-> The content will continue display on the site while a moderator reviews it. The moderator might decide to edit the content, delete it, or cancel the report based on the contents of the post.
+Note that the content will continue display on the site while a moderator reviews it.
+
+> [!TIP]
+> If you are a moderator, follow the [Spam management](spam-management.md) guidelines to deal with spam that has been sent to moderation.
