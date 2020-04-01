@@ -2,6 +2,7 @@
 
 > [!NOTE]
 > This article is targeted to moderators and site admins.
+> This article assumes that you are in the moderation area. For dealing with spam when found on the site, please see [Report content for moderation review](report-to-moderation.md).
 
 Spam can be caught two ways:
 
