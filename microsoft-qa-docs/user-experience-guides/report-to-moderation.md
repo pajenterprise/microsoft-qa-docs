@@ -17,7 +17,7 @@ You might find content that needs a moderator to review because of the following
 
 If that is the case, please report it to a moderator for review.
 
-#· Reporting content by regular users
+## Reporting content by regular users
 
 Follow these steps to report the content. Note that the process is the same for reporting questions, answers, comments, or feedback.
 
@@ -34,7 +34,7 @@ Follow these steps to report the content. Note that the process is the same for 
 
 Note that the content will continue display on the site while a moderator reviews it.
 
-#· Reporting content by moderators
+## Reporting content by moderators
 
 > [!IMPORTANT]
 > It is important you follow these steps if you see content on the site that is spam. If you only delete the content, our spam tools will not know that the content is actual spam m, so spam will continue going undetected.
