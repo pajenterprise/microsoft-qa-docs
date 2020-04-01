@@ -17,24 +17,36 @@ You might find content that needs a moderator to review because of the following
 
 If that is the case, please report it to a moderator for review.
 
-> [!IMPORTANT]
-> If you are a moderator, do not delete the content and move on. Doing so will not send the content to our spam management systems, and spam content will not be detected moving forward.
+#· Reporting content by regular users
 
-Do the following to report the content. Note that the process is the e same for reporting questions, answers, comments, or feedback.
+Follow these steps to report the content. Note that the process is the same for reporting questions, answers, comments, or feedback.
 
 1. Click the *Settings/Gear* icon at the right of the content type.
-2. Delete the content.
-1.  Click the *Settings/Gear* icon again, and click on the *Report* link.
+1. Click on the *Report* link.
 ![settings icon and report option](media/report-content.png)
-3. Select a reason for reporting the content from the *Report* dialog drop down. *Spam* is selected by default.
-4. If you want to, enter additional comments in the text box.
+1. Select a reason for reporting the content from the *Report* dialog drop down. *Spam* is selected by default.
+1. If you want to, enter additional comments in the text box.
 ![reason for reporting the content](media/report-content-reason.png)
-5. Click *OK* to send the content to the moderator queue.
-6. A yellow bar will show on top of the content informing that the content has been reported for moderation review.
+1. Click *OK* to send the content to the moderator queue.
+1. A yellow bar will show on top of the content informing that the content has been reported for moderation review.
 
 ![yellow bar indicating the content is reported to a moderator](media/report-content-info.png)
 
 Note that the content will continue display on the site while a moderator reviews it.
 
-> [!TIP]
-> If you are a moderator, follow the [Spam management](spam-management.md) guidelines to deal with spam that has been sent to moderation.
+#· Reporting content by moderators
+
+> [!IMPORTANT]
+> It is important you follow these steps if you see content on the site that is spam. If you only delete the content, our spam tools will not know that the content is actual spam m, so spam will continue going undetected.
+
+Follow these steps to report the content. Note that the process is the same for reporting questions, answers, comments, or feedback.
+
+1. Click the *Settings/Gear* icon at the right of the content type.
+2. Click on *Delete*.
+1. Click the *Settings/Gear* icon again, and click on the *Report* link.
+1. Select a reason for reporting the content from the *Report* dialog drop down. *Spam* is selected by default.
+1. If you want to, enter additional comments in the text box.
+1. Click *OK* to send the content to the moderator queue.
+1. Follow the [Spam management](spam-management.md) guidelines to deal with spam that has been sent to the moderation queue.
+
+![yellow bar indicating the content is reported to a moderator](media/report-content-info.png)
